@@ -1,4 +1,6 @@
-﻿using System; //using (Keyword) system(namespace having classes in it)
+//HelloWorld in C#
+
+using System; //using (Keyword) system(namespace having classes in it)
 
 namespace Helloworld //namespace (to organize the code) 
 {
