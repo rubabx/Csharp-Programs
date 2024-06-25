@@ -1,4 +1,4 @@
-//HelloWorld in C#
+//HelloWorld program in C#
 
 using System; //using (Keyword) system(namespace having classes in it)
 
