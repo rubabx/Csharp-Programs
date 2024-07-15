@@ -43,9 +43,7 @@ namespace Arrays
                 }
                 Console.WriteLine();
             }
-            
-           
-
+             
             //Jagged Multidimenional Array
 
             int[][] array2 = new int[3][];
