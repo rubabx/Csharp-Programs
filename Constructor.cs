@@ -1,4 +1,6 @@
-﻿using System;
+//Name and Location using a Constructor
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
