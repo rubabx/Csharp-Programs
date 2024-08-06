@@ -1,0 +1,10 @@
+C:\Users\Rubab\Desktop\C# Practice\program\CRUDform\CRUDform\bin\Debug\CRUDform.exe.config
+C:\Users\Rubab\Desktop\C# Practice\program\CRUDform\CRUDform\bin\Debug\CRUDform.exe
+C:\Users\Rubab\Desktop\C# Practice\program\CRUDform\CRUDform\bin\Debug\CRUDform.pdb
+C:\Users\Rubab\Desktop\C# Practice\program\CRUDform\CRUDform\obj\Debug\CRUDform.csproj.AssemblyReference.cache
+C:\Users\Rubab\Desktop\C# Practice\program\CRUDform\CRUDform\obj\Debug\CRUDform.Form1.resources
+C:\Users\Rubab\Desktop\C# Practice\program\CRUDform\CRUDform\obj\Debug\CRUDform.Properties.Resources.resources
+C:\Users\Rubab\Desktop\C# Practice\program\CRUDform\CRUDform\obj\Debug\CRUDform.csproj.GenerateResource.cache
+C:\Users\Rubab\Desktop\C# Practice\program\CRUDform\CRUDform\obj\Debug\CRUDform.csproj.CoreCompileInputs.cache
+C:\Users\Rubab\Desktop\C# Practice\program\CRUDform\CRUDform\obj\Debug\CRUDform.exe
+C:\Users\Rubab\Desktop\C# Practice\program\CRUDform\CRUDform\obj\Debug\CRUDform.pdb
